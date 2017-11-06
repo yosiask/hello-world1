@@ -1,2 +1,2 @@
 # hello-world1
-created it to learn how to greate a github repository
+This Repository is created to learn how to use/manipulate a github repository
